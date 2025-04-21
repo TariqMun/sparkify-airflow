@@ -27,9 +27,7 @@ This project creates automated data pipelines for Sparkify's music streaming dat
   - Python 3.6+ (Airflow 1.10.x supports Python 3.6-3.8)
    - PostgreSQL client libraries (for psycopg2)
    - AWS CLI configured with proper credentials
-   ```bash
-   pip install -r requirements.txt
-
+   
 The DAG performs the following steps:
 
 1. **Stage data**:
