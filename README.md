@@ -29,7 +29,6 @@ This project creates automated data pipelines for Sparkify's music streaming dat
    - AWS CLI configured with proper credentials
    ```bash
    pip install -r requirements.txt
-## DAG Overview
 
 The DAG performs the following steps:
 
